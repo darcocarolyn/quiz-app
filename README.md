@@ -8,3 +8,4 @@ The Questions component uses the useState hook to maintain the state of the sele
 
 The Summary component takes in the data from the Questions component and maps over the data accordingly and returns an object for each question in the quiz. Each object consists of the question, the choices, (the correct answer is bolded), and the user's answers. Finally, the score is calculated, (each question is worth 1 point regardless of question type), and rendered at the bottom of the screen.
 
+GitHub Pages Link: https://darcocarolyn.github.io/quiz-app/
