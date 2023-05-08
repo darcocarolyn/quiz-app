@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/quiz-app/static/js/main.9caf7ac2.js",
+    "static/js/171.3240784d.js": "/quiz-app/static/js/171.3240784d.js",
+    "static/media/MaterialCommunityIcons.ttf": "/quiz-app/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Fontisto.ttf": "/quiz-app/static/media/Fontisto.c0edd68811e0237502fe.ttf",
+    "static/media/Ionicons.ttf": "/quiz-app/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/quiz-app/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/quiz-app/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/quiz-app/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/quiz-app/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/AntDesign.ttf": "/quiz-app/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/quiz-app/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Foundation.ttf": "/quiz-app/static/media/Foundation.c0cbb004854f9c746f89.ttf",
+    "static/media/Feather.ttf": "/quiz-app/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/SimpleLineIcons.ttf": "/quiz-app/static/media/SimpleLineIcons.3ec13a24af3fdda11107.ttf",
+    "static/media/Octicons.ttf": "/quiz-app/static/media/Octicons.6b742a230954dc640ba2.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/quiz-app/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "static/media/Zocial.ttf": "/quiz-app/static/media/Zocial.07fea2ac49bcc67d9a6b.ttf",
+    "favicon.ico": "/quiz-app/favicon.ico",
+    "static/media/EvilIcons.ttf": "/quiz-app/static/media/EvilIcons.699664b33ac2837d5bee.ttf",
+    "index.html": "/quiz-app/index.html",
+    "static/media/rocket.png": "/quiz-app/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/quiz-app/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/quiz-app/favicon-32.png",
+    "static/media/star.png": "/quiz-app/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/quiz-app/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/quiz-app/favicon-16.png",
+    "serve.json": "/quiz-app/serve.json",
+    "manifest.json": "/quiz-app/manifest.json",
+    "main.9caf7ac2.js.map": "/quiz-app/static/js/main.9caf7ac2.js.map",
+    "171.3240784d.js.map": "/quiz-app/static/js/171.3240784d.js.map"
+  },
+  "entrypoints": [
+    "static/js/171.3240784d.js",
+    "static/js/main.9caf7ac2.js"
+  ]
+}
